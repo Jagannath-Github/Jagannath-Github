@@ -1,7 +1,6 @@
 <h1 align="center">Hi 😊, I'm Jagannath</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img src="">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagannath-github&label=Profile%20views&color=0e75b6&style=flat" alt="jagannath-github" /> </p> -->
 
