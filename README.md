@@ -25,9 +25,4 @@
 
 - 📄 Know about my experiences [2 years Experience]
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagannath-github&show_icons=true&locale=en&layout=compact" alt="jagannath-github" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagannath-github&show_icons=true&locale=en" alt="jagannath-github" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagannath-github&" alt="jagannath-github" /></p>
+<h4>&nbsp &nbsp Thank You</h4>
