@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😊, I'm Jagannath</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <img src="">
 
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **jagannathokk@gmail.com**
 
-- 📄 Know about my experiences [3+ years Experience]
+- 📄 Know about my experiences [2 years Experience]
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagannath-github&show_icons=true&locale=en&layout=compact" alt="jagannath-github" /></p>
