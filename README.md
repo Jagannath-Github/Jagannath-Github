@@ -19,8 +19,6 @@
 </p>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jagannath-Github?tab=repositories](https://github.com/Jagannath-Github?tab=repositories)
-
 - 📫 How to reach me **jagannathokk@gmail.com**
 
 - 📄 Know about my experiences [2 years Experience]
