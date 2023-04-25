@@ -19,8 +19,6 @@
 </p>
 
 
-- 📫 How to reach me **jagannathokk@gmail.com**
-
-- 📄 Know about my experiences [2 years Experience]
+- 📫 How to reach me **jagannath@gmail.com**
 
 <h4>&nbsp &nbsp Thank You</h4>
