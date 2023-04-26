@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😊, I'm Jagannath</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Devops Engineer from India</h3>
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagannath-github&label=Profile%20views&color=0e75b6&style=flat" alt="jagannath-github" /> </p> -->
@@ -19,6 +19,6 @@
 </p>
 
 
-- 📫 How to reach me **jagannath@gmail.com**
+- 📫 How to reach me ********
 
 <h4>&nbsp &nbsp Thank You</h4>
